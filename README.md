@@ -1,4 +1,7 @@
-## Olá! Sou Iasmin Borges
+## Olá Mundo! Sou Iasmin Borges
+
+🙋‍♀️ Tenho 29 anos, trabalho com TI há 9 anos, porém desde 2021 venho dedicando somente para a área de programação. Desde então, estou cada vez mais apaixonada, buscando aprofundar meus conhecimentos e me especializar nesse universo.
+
 👩🏻‍🎓 Formada em Análise Desenvolvimento de Sistemas
 
 👩‍💻 Hoje trabalho com Back-End
