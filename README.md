@@ -1,6 +1,7 @@
 ## Hi There! I'm Iasmin Borges
 
 🙋‍♀️ I'm 29 years old, I've been working with IT for 9 years, but since 2021 I've been dedicating myself solely to the programming area. Since then, I have become increasingly passionate, seeking to deepen my knowledge and specialize in this universe.
+
 👩🏻‍🎓 Graduated in Systems Analysis and Development
 
 👩‍💻 Today I work with Back-End
